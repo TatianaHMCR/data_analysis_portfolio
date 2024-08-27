@@ -1,29 +1,30 @@
-# Aleksandr Nikitin - Data Analysis Portfolio 
+# Tatiana Hernandez - Data Analysis Portfolio 
 
 ## About
 
-Hi, I'm Alex! I have a technical background and hold a Master of Science (M.S.) degree in Geoscience from Saint Petersburg Mining University, with a major in Seismic Data Processing and Analysis. I have 12 years of experience in the field of geoscience, where I held roles such as Data Processing Engineer, Head of Department, and CTO in a technological startup. After a year of transitioning from geoscience to Data Analysis, I am currently a Data Analyst at a Fintech company, starting from June 2021.      
-Achieved the 7th place at the open Data Analyst 2021 competition held by [Career Factory.](https://contest.careerfactory.ru/contest_inside/1618853698875x612895580932538400)    
+As a seasoned Marketing Analytics professional with over a decade of experience, I specialize in leveraging data to drive strategic decision-making and transformational insights. My career has been dedicated to building and leading high-performing analytics teams, fostering a culture of data-driven decision-making within shared services environments. Bilingual in English and Spanish, I bring a global perspective to data analytics, having worked with diverse teams across multiple continents.
 
-My article on Habr on matching two open data datasets with help of Machine Learning ---> [ENG](https://ai.plainenglish.io/unlocking-the-potential-of-open-data-how-to-make-it-work-for-you-a01f7ac1f19) | [RUS](https://habr.com/ru/company/tochka/blog/699490/)     
+Currently serving as a Principal Analytics Engineer at Kaiser Permanente, I spearhead the development and support of IT analytics applications that optimize medical group operations and financial planning. My work in developing marketing analytics dashboards using Tableau has significantly improved patient retention rates by providing actionable insights into patient engagement and outreach.
 
-My Data Analytics blog on [Medium](https://medium.com/@nktn.lx)   
+Previously, I managed a team of data professionals at 3M, where I revolutionized pricing analytics for the Customer Operations Organization. By implementing advanced customer segmentation models with Adobe Analytics, I enhanced campaign targeting, resulting in a 20% increase in customer engagement and improved ROI.
 
-My CV in [pdf](https://github.com/nktnlx/data_analysis_portfolio/blob/main/aleksandr_nikitin_data_analyst_cv_eng.pdf) 
+My tenure as the Lead of Data Analytics at BAT saw me directing finance insights analytics across America and Africa. Here, I successfully implemented marketing attribution models that optimized budget allocation and improved marketing efficiency, leading to a 20% reduction in customer acquisition costs.
+
+At Amazon, as a senior advertisement business intelligence developer, I led a team that analyzed business advertising data, which drove key revenue strategies. My efforts in A/B testing and campaign analysis using Google Optimize contributed to a 15% increase in advertising ROI.
+
+Throughout my career, I have consistently demonstrated my ability to integrate advanced analytics into business processes, delivering measurable improvements in marketing effectiveness and customer engagement. My expertise spans a wide range of analytical tools and methodologies, including media mix modeling, marketing measurement, and the implementation of cutting-edge marketing technologies.
+
 
 <br>
-This repository serves to showcase my skills and as a platform to share my projects, and a way to track my progress in Data Analytics and Data Science-related topics.  
+This repository serves to showcase my skills and as a platform to share my projects, and as a way to track my progress in Data Analytics and Data Science-related topics.  
 <br>
   
 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
-	+ [A Mobile Game Data Analysis](#a-mobile-game-data-analysis)
 	+ [A Landing Page Design Experiment](#a-landing-page-design-experiment)
 	+ [Online Advertising Campaign Analysis](#online-advertising-campaign-analysis)
-	+ [Airbnb Listings Analytics](#airbnb-listings-analytics)
 - [Study Projects](#study-projects)
   	+ [Advanced A/B Testing Course](#advanced-ab-testing-course)
 	+ [Algorithms Training 3.0 by Yandex](#algorithms-training-by-yandex)
@@ -31,9 +32,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 	+ [A/B Testing Course by Google](#ab-testing-course-by-google)
 	+ [sklearn ML course](#sklearn-ml-course)
 	+ [Kaggle 30 Days of ML](#kaggle-30-days-of-ml)
-	+ [Data Analysis Course](#data-analyst-specialization)
-	+ [Data Analysis Course Tinkoff-MSU](#data-analysis-course-tinkoff-msu)
-	+ [Learning SQL](#learning-sql)
 	+ [Python Developer Track](#python-developer-track)
 	+ [Computer Science Career Path](#computer-science-career-path)
 	+ [Google Python Class](#google-python-class)
@@ -44,21 +42,6 @@ This repository serves to showcase my skills and as a platform to share my proje
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
-
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
-
-### A Mobile Game Data Analysis
-**Code:** [`final_project.ipynb`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/final_project.ipynb)    
-**Presentation:** [`my_project_slides.pdf`](https://github.com/nktnlx/data_analysis_course/blob/main/37_final_project/my_project_slides.pdf)   
-**Description:** The final project for 5 month Data Analysis Course. Setup: you're employed in a mobile games development company. A Product Manager gives you following tasks: to find and visualize retention, to make a decision based on the A/B test data, to suggest a number of metrics to evaluate the results of the last monthly campaign.   
-**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, A/B tests, Shapiro–Wilk test, Levene's test, data transforms, Mann–Whitney U test, proportions z-test, bootstrapping, defining metrics.    
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats, Bootstrap.     
-**Results:** python functions to calculate and plot users retention, hypothesis testing, detecting statistically significant result with a recommendation to push tested in-app changes into production, a set of metrics to evaluate success of promotion campaign.  
 
 ### A Landing Page Design Experiment
 **Code:** [`notebook.ipynb`](https://github.com/nktnlx/side_projects/blob/master/4_career_factory/notebook.ipynb)    
@@ -191,7 +174,5 @@ I believe that the best way to showcase skills is by doing and sharing your job 
 - [IELTS Academic](https://drive.google.com/file/d/1bB3bBUtCeHttCQQHdLP6Om45dFgDyXYw/view?usp=sharing) (Overall Band Score 7.0 - Proficient English User (C1)) (Apr 2014)
 
 ## Contacts
-- LinkedIn: [@nktnlx](https://www.linkedin.com/in/nktnlx)
-- Telegram: [@nktnlx](https://t.me/nktnlx)
-- Twitter: [@nktn_lx](https://twitter.com/nktn_lx)
-- E-mail: nktn.lx@gmail.com
+
+- E-mail: tatihdata@gmail.com
